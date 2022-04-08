@@ -25,7 +25,7 @@ a {
     margin-right: 30px;
 }
 
-a::before { /* seletor */
+a::before { /* seletor */ /* pseudo element */
     content: "";
     background-color: #F25A5A;
     width: 10px;
@@ -43,6 +43,7 @@ a::before { /* seletor */
 
 }
 
-#button:hover {
+#button:hover { /* pseudo class*/
     transform: scale(1.08);
 }
+
