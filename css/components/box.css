@@ -1,8 +1,9 @@
 .box {
-    position: absolute;
-    width: 627px;
-    left: 91px;
-    top: 196px;
+    /* position: absolute; */
+    display: inline-block;
+    /* width: 627px; */
+    /* left: 91px; */
+    /* top: 196px; */
     box-shadow: 10px 10px 0px #000000;
     /* --color-black-second */
     text-align: center;
@@ -12,5 +13,6 @@
 
 .box .title .subtitle {
     margin-bottom: 28px;
+
 }
 
