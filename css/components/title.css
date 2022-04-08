@@ -5,3 +5,10 @@
     color: #F25A5A;
     
 }
+
+.title.-second { /* se tiver um espaço depois do title ele vai procurar 2 classes diferentes */
+    color: #fff;
+    text-shadow: none;
+    text-align: center;
+    padding-top: 40px;
+}
