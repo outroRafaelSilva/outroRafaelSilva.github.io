@@ -1,17 +1,19 @@
 .box {
     /* position: absolute; */
     display: inline-block;
+    background: #3A4042;
     /* width: 627px; */
     /* left: 91px; */
     /* top: 196px; */
     box-shadow: 10px 10px 0px #000000;
     /* --color-black-second */
     text-align: center;
-    background: #3A4042;
+    
     padding: 42px 44px; 
 }
 
 .box .title .subtitle {
+    
     margin-bottom: 28px;
 
 }
