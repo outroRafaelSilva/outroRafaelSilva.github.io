@@ -3,7 +3,6 @@
     font-size: 40px;
     text-shadow: 4px 4px 0px #000000;
     color: #F25A5A;
-    
 }
 
 .title.-second { /* se tiver um espaço depois do title ele vai procurar 2 classes diferentes */
