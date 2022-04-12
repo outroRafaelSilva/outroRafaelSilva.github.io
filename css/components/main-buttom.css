@@ -1,4 +1,4 @@
-.button{
+.main-button{
     display: inline-block;
     background-color: #F25A5A;
     box-shadow: 5px 5px 0px #000; /*blur é o 3° valor=desfoque */
@@ -11,6 +11,6 @@
 
 }
 
-.button:hover { /* pseudo class*/
+.main-button:hover { /* pseudo class*/
     transform: scale(1.08);
 }
